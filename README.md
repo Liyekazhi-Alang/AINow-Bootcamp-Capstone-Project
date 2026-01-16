@@ -8,9 +8,9 @@
 
 **​Key Insights and Findings**
 
-*​ Top Risk Factor: From the results gotten after the analysis, Building Dimension is the most significant predictor. Larger buildings show a much higher frequency of claims.
+*​ _Top Risk Factor_: From the results gotten after the analysis, Building Dimension is the most significant predictor. Larger buildings show a much higher frequency of claims.
 
-*​ Model Performance:  Random Forest: 0.718 AUC (Best model)
+*​ _Model Performance_:  Random Forest: 0.718 AUC (Best model)
 ​Logistic Regression: 0.717 AUC
 ​Decision Tree: 0.697 AUC
 
